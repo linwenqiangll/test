@@ -1,0 +1,13 @@
+.header{
+    display:flex;
+}
+
+.header a{
+    flex:1;
+    text-align: center;
+    background-color: #999;
+    margin:5px;
+}
+.header a.active{
+    background: skyblue;
+}
